@@ -1,2 +1,7 @@
-# TodoApp-FlutterFlow
-CSC305 assignment 3. TodoApp on FlutterFlow
+# Todo
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
